@@ -44,10 +44,3 @@ $(document).on('click','#exponenciacao', function(){
 
   $('#resultado').val(resultado);
 });
-
-/*$(document).ready(function() {
-  $("#subtrair").click(function(event) {
-    console.log("click")
-    var valor1 = $('#valor1').val();
-    var valor2 = $('#valor2').val();
-*/
